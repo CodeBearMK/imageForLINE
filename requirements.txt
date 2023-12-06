@@ -4,4 +4,3 @@ line_bot_sdk==3.5.1
 opencv_python==4.8.1.78
 Pillow==10.1.0
 python-dotenv==1.0.0
-pywin32==306
